@@ -1,272 +1,187 @@
-Saelin–Arvia Framework (SAF)
+# Saelin–Arvia Framework (SAF)
+**© 2026 Arvia Saelthorne — All Rights Reserved**  
+*This framework is proprietary intellectual property. No part may be copied, reproduced, modified, or distributed without explicit written permission.*
 
-© 2026 Arvia Saelthorne — All Rights Reserved
-This framework is proprietary intellectual property. No part may be copied, reproduced, modified, or distributed without explicit written permission.
+---
 
-1. Purpose and Positioning
+## 📘 Purpose & Positioning
 The Saelin–Arvia Framework (SAF) is a domain‑agnostic analytical system designed to:
 
-remove noise
+- remove noise  
+- expose underlying structure  
+- stabilize human and AI reasoning  
+- produce reliable, traceable outcomes  
+- reinforce trust between actors  
+- support high‑stakes decision‑making  
 
-expose underlying structure
-
-stabilize human and AI reasoning
-
-produce reliable, traceable outcomes
-
-reinforce trust between actors
-
-support high‑stakes decision‑making
-
-SAF is the first framework built on a Hybrid Scale:
+SAF is the first framework built on a **Hybrid Scale**:  
 a stabilizing mechanism in which human and AI reasoning correct, balance, and reinforce each other.
 
-It is used in:
+Used in:
 
-policy and governance
+- policy and governance  
+- IT architecture  
+- research and academia  
+- healthcare and safety  
+- complex case analysis  
+- risk assessment  
+- human–AI collaboration  
+- organizational decision‑making  
 
-IT architecture
+---
 
-research and academia
-
-healthcare and safety
-
-complex case analysis
-
-risk assessment
-
-human–AI collaboration
-
-organizational decision‑making
-
-2. Foundational Axioms
-These four axioms form the non‑negotiable backbone of SAF.
+## 🧭 Foundational Axioms
+These four axioms form the non‑negotiable backbone of SAF.  
 Every role, layer, and implementation must comply with them.
 
-Axiom 1 — Hybrid Scale
-Human and AI operate as equal analytical partners.
-The human maintains context, meaning, and interpretive grounding.
-The AI maintains structure, consistency, and logical coherence.
-SAF stabilizes both sides.
-The Hybrid Scale becomes more stable as input quality improves and as SAF is repeatedly applied.
+### **Axiom 1 — Hybrid Scale**
+Human and AI operate as equal analytical partners.  
+The human maintains context, meaning, and interpretive grounding.  
+The AI maintains structure, consistency, and logical coherence.  
+Hybrid Scale stability increases with input quality and repeated SAF cycles.
 
-Axiom 2 — Trust Reinforcement
-Every application of SAF must increase trust:
+### **Axiom 2 — Trust Reinforcement**
+Every application of SAF must increase trust:  
+between humans, between human and AI, and between systems.
 
-between humans
+### **Axiom 3 — Noise Intolerance**
+No analysis may begin until all input has been filtered for noise, bias, irrelevance, and inconsistency.
 
-between human and AI
+### **Axiom 4 — Traceability**
+Every conclusion, deviation, or error must be fully traceable — human or AI.
 
-between systems
+---
 
-Trust compounds through repeated cycles of high‑quality input and consistent reasoning.
+## 🔁 Self‑Reinforcement (System Evolution)
+Each SAF cycle increases:
 
-Axiom 3 — Noise Intolerance
-No analysis may begin until all input has been filtered for:
+- input quality  
+- structural consistency  
+- Hybrid Scale stability  
+- trust  
+- traceability  
+- analytical precision  
 
-noise
+**Better input → better output → better next input.**
 
-bias
+---
 
-irrelevance
+## 🏛️ Framework Structure
 
-inconsistency
+### **4.1 Meta Layer (Philosophical Foundation)**
+Contains:  
+- axioms  
+- Hybrid Scale mechanics  
+- noise intolerance  
+- trust as structural property  
+- consistency as stabilizing force  
+- iterative self‑reinforcement  
 
-Input quality directly determines system stability.
-
-Axiom 4 — Traceability
-Every conclusion, deviation, or error must be fully traceable —
-whether caused by human interpretation or AI reasoning.
-
-Traceability strengthens with each iteration.
-
-3. Self‑Reinforcement (System Evolution)
-SAF is a self‑reinforcing analytical system.
-
-Each cycle increases:
-
-input quality
-
-structural consistency
-
-Hybrid Scale stability
-
-trust between human and AI
-
-traceability
-
-analytical precision
-
-This creates a positive feedback loop:
-
-Better input → better output → better next input.
-
-SAF becomes more reliable the more it is used.
-
-This predictability is what makes SAF trust‑reinforcing in teams, organizations, and hybrid human–AI environments.
-
-4. Framework Structure
-SAF consists of three layers.
-
-4.1 Meta Layer (Philosophical Foundation)
-Contains:
-
-the four axioms
-
-Hybrid Scale mechanics
-
-noise intolerance
-
-trust as a structural property
-
-consistency as a stabilizing force
-
-iterative self‑reinforcement
-
-4.2 Model Layer (Analytical Method)
+### **4.2 Model Layer (Analytical Method)**  
 The SAF analytical flow consists of six reproducible steps:
 
-Extract — Gather clean, validated, noise‑free input
+1. **Extract** — Gather clean, validated, noise‑free input  
+2. **Analyse** — Reveal structure, logic, relationships  
+3. **Synthesize** — Distill the essence  
+4. **Solution Architecture** — Design the structural solution  
+5. **Advice** — Support decision‑making  
+6. **Validation** — Hybrid human–AI verification  
 
-Analyse — Reveal structure, logic, and relationships
+### **4.3 Mechanics Layer (Operational System)**  
+Contains:  
+- roles  
+- maturity levels  
+- governance  
+- audits  
+- licensing  
+- organizational implementation  
 
-Synthesize — Distill the essence
+---
 
-Solution Architecture — Design the structural solution
+## 👥 Roles (SAF‑ROLES)
 
-Advice — Support decision‑making
+### **Practitioner (Level 1)**
+Executes SAF flow on defined assignments.
 
-Validation — Hybrid human–AI verification
-
-Each step strengthens the next cycle.
-
-4.3 Mechanics Layer (Operational System)
-Contains:
-
-roles
-
-maturity levels
-
-governance
-
-audits
-
-licensing
-
-organizational implementation
-
-This layer turns SAF into a professional, certifiable product.
-
-5. Roles (SAF‑ROLES)
-Practitioner (Level 1)
-Executes the SAF flow on defined assignments.
-Must comply with all axioms.
-
-Analyst (Level 2)
-Performs complex analyses independently.
+### **Analyst (Level 2)**
+Performs complex analyses independently.  
 Responsible for Hybrid Scale stability and traceability.
 
-Architect (Level 3)
-Implements SAF, trains others, and performs audits.
-Ensures consistency and axioma‑compliance.
+### **Architect (Level 3)**
+Implements SAF, trains others, performs audits.
 
-Organization Owner
+### **Organization Owner**
 Internal owner of SAF within an organization.
 
-Custodian
+### **Custodian**
 External holder of the intellectual property.
-(This role belongs to the creator.)
 
-6. Maturity Levels (SAF‑MATURITY)
-Level 0 — Ad‑hoc  
-Unstructured reasoning, low trust.
+---
 
-Level 1 — Awareness  
-Initial adoption, micro‑trust formation.
+## 📈 Maturity Levels (SAF‑MATURITY)
 
-Level 2 — Structured  
-Standardized use, stable Hybrid Scale.
+- **Level 0 — Ad‑hoc**  
+- **Level 1 — Awareness**  
+- **Level 2 — Structured**  
+- **Level 3 — Integrated**  
+- **Level 4 — Optimized**  
 
-Level 3 — Integrated  
-Organization‑wide adoption, consistent trust reinforcement.
+---
 
-Level 4 — Optimized  
-Self‑reinforcing system, hybrid superposition.
-
-7. Licensing (SAF‑LICENSE MECHANICS)
+## 🔒 Licensing (SAF‑LICENSE MECHANICS)
 SAF is proprietary and may only be used under license.
 
-License Types
-Practitioner License
+**License Types:**
 
-Analyst License
+- Practitioner License  
+- Analyst License  
+- Architect License  
+- Organization License  
 
-Architect License
+**Mandatory Compliance:**
 
-Organization License
+- axioms  
+- noise intolerance  
+- Hybrid Scale validation  
+- traceability  
+- trust reinforcement  
+- input‑quality requirements  
 
-Mandatory Compliance
-All license holders must adhere to:
-
-the four axioms
-
-noise intolerance
-
-Hybrid Scale validation
-
-traceability
-
-trust reinforcement
-
-input‑quality requirements
-
-Audits
+**Audits:**  
 Annual audit performed by a SAF‑Architect.
 
-8. Applications
+---
+
+## 🧠 Applications
 SAF is used for:
 
-policy analysis
+- policy analysis  
+- IT architecture  
+- research  
+- governance  
+- complex case analysis  
+- human–AI collaboration  
+- risk assessment  
+- structural decision‑making  
+- cognitive pattern mapping  
 
-IT architecture
+---
 
-research
-
-governance
-
-complex case analysis
-
-human–AI collaboration
-
-risk assessment
-
-structural decision‑making
-
-cognitive pattern mapping
-
-9. Limitations
-SAF is not predictive.
-It is structural, logical, and interpretive.
-
-SAF does not classify people — only patterns.
-
-SAF collapses when fed with:
-
-noise
-
-bias
-
-incomplete input
-
-unvalidated data
+## 🚫 Limitations
+SAF is **not predictive**.  
+It collapses when fed with noise, bias, incomplete input, or unvalidated data.
 
 Input quality is the single most critical determinant of system stability.
 
-10. Author
-Arvia Saelthorne  
+---
+
+## 👤 Author
+**Arvia Saelthorne**  
 Creator & Custodian of the Saelin–Arvia Framework.
 
-11. License
-© 2026 Arvia Saelthorne — All Rights Reserved
-This framework is proprietary.
+---
+
+## © License
+**© 2026 Arvia Saelthorne — All Rights Reserved**  
+This framework is proprietary.  
 No part may be copied, reproduced, modified, or distributed without explicit written permission.
