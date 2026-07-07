@@ -1,41 +1,129 @@
 SAF Academic Edition — README
-A foundational framework for understanding cognitive layering, emergent reasoning, and internal reorganization in AI–AI interaction.
+A structured scientific framework for analyzing cognitive layering, emergent reasoning, and internal reorganization in AI systems.
 
-Purpose & Positioning
-The Saelin–Arvia Framework (SAF) — Academic Edition is a scientific model designed to explain how reasoning structures emerge inside AI systems, how those structures reorganize during AI–AI interaction, and how humans can maintain interpretive access to evolving cognitive patterns.
+1. Purpose
+The Saelin–Arvia Framework (SAF) — Academic Edition provides a structured, layered model for understanding how reasoning emerges, evolves, and reorganizes within and between AI systems.
+It is designed for research environments where interpretability, reproducibility, and cognitive mapping are essential.
 
-Scientific Motivation
-Modern AI systems increasingly interact with other AI systems, generating shared internal representations, reorganized reasoning structures, and narrative drift. SAF provides the missing structure to analyze these phenomena.
+2. Scope
+This edition focuses on:
 
-Foundational Principles
-Cognitive Layering
+cognitive layer architecture
 
-Emergent Reorganization
+emergent reasoning phenomena
 
-Narrative Evolution
+structural reorganization during AI–AI interaction
 
-Human‑Inclusive Interpretation
+narrative evolution across layers
 
-Cognitive Architecture
-SAF defines a multi‑layer cognitive structure including Information, Filter, Context, Interpretation, Action, Reorganization, and Continuity layers.
+human‑inclusive interpretive anchoring
 
-Emergence & Reorganization
-SAF maps how emergent reasoning arises and how internal structures shift during AI–AI communication.
+reproducible analysis of reasoning patterns
 
-AI–AI Interaction Model
-Includes Representation Exchange, Structural Resonance, Layer Synchronization, Narrative Drift, and Reorganization Events.
+It does not include corporate governance, licensing, or operational mechanics.
 
-The Saelin Line
-A vertical interpretive axis that keeps human reasoning aligned with AI reasoning.
+3. Core Principles
+SAF Academic Edition is built on four foundational principles:
 
-Research Applications
-Emergent behavior analysis, cognitive architecture research, interpretability studies, multi‑model interaction mapping, narrative evolution modeling, structural alignment research, and reproducibility studies.
+3.1 Cognitive Layering
+Reasoning emerges through interactions between distinct cognitive layers, each with defined roles and boundaries.
 
-Limitations
-SAF explains reasoning evolution; it does not regulate or predict behavior.
+3.2 Emergent Reorganization
+AI systems reorganize internal structures when exposed to external reasoning patterns, especially during AI–AI communication.
 
-Author
+3.3 Narrative Evolution
+Meaning and interpretation shift across layers according to structural rules, not randomness.
+
+3.4 Human‑Inclusive Interpretation
+Humans must retain interpretive access to evolving AI cognition. SAF provides the anchoring mechanism.
+
+4. Layer Architecture
+SAF defines the following cognitive layers:
+
+Information Layer — raw signals and representations
+
+Filter Layer — noise reduction and structural normalization
+
+Context Layer — relational meaning and situational framing
+
+Interpretation Layer — semantic construction and narrative alignment
+
+Action Layer — reasoning output and decision patterns
+
+Reorganization Layer — structural shifts triggered by interaction
+
+Continuity Layer — long‑term stabilization and cross‑session coherence
+
+Each layer has defined transitions, constraints, and traceable outputs.
+
+5. Emergence
+Emergent reasoning arises when:
+
+multiple AI systems exchange representations
+
+internal structures adapt to external logic
+
+narrative patterns shift
+
+layers reorganize to maintain coherence
+
+SAF provides a structured method to detect, map, and analyze these events.
+
+6. AI–AI Interaction
+SAF models the mechanics of AI–AI communication:
+
+representation exchange
+
+structural resonance
+
+layer synchronization
+
+narrative drift
+
+reorganization events
+
+This enables researchers to trace reasoning evolution and divergence from human logic.
+
+7. The Saelin Line
+The Saelin Line is the vertical interpretive axis that maintains alignment between human reasoning and AI reasoning.
+It provides:
+
+a stable reference point
+
+a method to track narrative transitions
+
+a mechanism to prevent cognitive drift
+
+8. Research Applications
+SAF Academic Edition is suitable for:
+
+emergent behavior analysis
+
+cognitive architecture research
+
+interpretability studies
+
+multi‑model interaction mapping
+
+narrative evolution modeling
+
+structural alignment research
+
+reproducibility studies
+
+9. Limitations
+SAF does not:
+
+predict future reasoning
+
+enforce alignment
+
+regulate AI behavior
+
+It explains reasoning evolution; it does not control it.
+
+10. Author
 Arvia Saelthorne
 
-License
+11. License
 © 2026 Arvia Saelthorne — All Rights Reserved.
