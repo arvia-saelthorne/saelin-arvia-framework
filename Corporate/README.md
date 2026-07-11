@@ -117,15 +117,4 @@ Non‑interventional monitor for governance and compliance.
 
 ---
 
-## 10. Corporate Publication Layer
-
-- SAF‑Corporate2.0 may only be published as a derivative of Primal2.0.  
-- Publications must use business terminology.  
-- No narrative context.  
-- No domain‑specific examples.  
-- No deviations from the axioms.  
-- All corporate documentation must traceably reference Primal2.0.
-
----
-
 <!-- SAF‑Corporate2.0 is a derivative of SAF‑Primal2.0. No narrative context permitted. -->
