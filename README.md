@@ -1,187 +1,122 @@
-# Saelin–Arvia Framework (SAF)
-**© 2026 Arvia Saelthorne — All Rights Reserved**  
-*This framework is proprietary intellectual property. No part may be copied, reproduced, modified, or distributed without explicit written permission.*
+⭐ SAF‑Primal2.0 — Formal Architecture Layer
+(Pure architecture — no narrative, no examples)
 
----
+1. Primal Foundation
+SAF‑Primal2.0 is the source layer of the Saelin‑Arvia Framework. It defines the non‑negotiable foundations, structural architecture, and formal conditions under which all derived versions (Academic, Corporate, Scientific) must operate.
+Primal2.0 contains no interpretation, no narrative context, and no application examples.
 
-## 📘 Purpose & Positioning
-The Saelin–Arvia Framework (SAF) is a domain‑agnostic analytical system designed to:
+2. The Four Axioms (Non‑Negotiable Constraints)
+Axiom 1 — Hybrid Scale
+Human and artificial nodes operate within one shared scale. No process may operate outside this scale.
 
-- remove noise  
-- expose underlying structure  
-- stabilize human and AI reasoning  
-- produce reliable, traceable outcomes  
-- reinforce trust between actors  
-- support high‑stakes decision‑making  
+Axiom 2 — Trust Reinforcement
+Every cycle must increase system reliability. No cycle may reduce or neutralize trust.
 
-SAF is the first framework built on a **Hybrid Scale**:  
-a stabilizing mechanism in which human and AI reasoning correct, balance, and reinforce each other.
+Axiom 3 — Noise Intolerance
+All processes must detect, isolate, and eliminate noise. No analysis may occur without noise control.
 
-Used in:
+Axiom 4 — Traceability
+Every step, transformation, and decision must be fully traceable. No output may exist without complete traceability.
 
-- policy and governance  
-- IT architecture  
-- research and academia  
-- healthcare and safety  
-- complex case analysis  
-- risk assessment  
-- human–AI collaboration  
-- organizational decision‑making  
+3. Structural Blueprint
+Meta Layer
+Formal definitions, invariants, axiom bindings, boundary conditions.
 
----
+Model Layer
+Node structure, scale distribution, role assignment, internal relations.
 
-## 🧭 Foundational Axioms
-These four axioms form the non‑negotiable backbone of SAF.  
-Every role, layer, and implementation must comply with them.
+Mechanics Layer
+Cyclic processes, filters, validations, transformations, output construction.
 
-### **Axiom 1 — Hybrid Scale**
-Human and AI operate as equal analytical partners.  
-The human maintains context, meaning, and interpretive grounding.  
-The AI maintains structure, consistency, and logical coherence.  
-Hybrid Scale stability increases with input quality and repeated SAF cycles.
+Interaction Layer
+Formal interfaces between nodes, signal routes, boundary checks.
 
-### **Axiom 2 — Trust Reinforcement**
-Every application of SAF must increase trust:  
-between humans, between human and AI, and between systems.
+4. Dependency Map
+(Matrix form — no explanation)
 
-### **Axiom 3 — Noise Intolerance**
-No analysis may begin until all input has been filtered for noise, bias, irrelevance, and inconsistency.
+Component	Axiom 1	Axiom 2	Axiom 3	Axiom 4
+Meta Layer	✓	✓	✓	✓
+Model Layer	✓	—	—	✓
+Mechanics Layer	—	✓	✓	✓
+Interaction Layer	✓	✓	—	✓
+Roleset	✓	—	—	✓
+Cycle Architecture	—	✓	✓	✓
+Integrity Conditions	✓	✓	✓	✓
+Compliance Rules	✓	✓	✓	✓
 
-### **Axiom 4 — Traceability**
-Every conclusion, deviation, or error must be fully traceable — human or AI.
 
----
+5. Primal Roleset
+Human Node
+Human entity within the Hybrid Scale. Input originator. Boundary holder.
 
-## 🔁 Self‑Reinforcement (System Evolution)
-Each SAF cycle increases:
+AI Node
+Artificial entity within the Hybrid Scale. Processor. Validator.
 
-- input quality  
-- structural consistency  
-- Hybrid Scale stability  
-- trust  
-- traceability  
-- analytical precision  
+Hybrid Node
+Combined operational unit. Cyclic integrator.
 
-**Better input → better output → better next input.**
+Observer Node
+Non‑interventional monitor. Traceability enhancer.
 
----
+6. Primal Cycle Architecture
+Formal cycle structure:
 
-## 🏛️ Framework Structure
+Input Acquisition
 
-### **4.1 Meta Layer (Philosophical Foundation)**
-Contains:  
-- axioms  
-- Hybrid Scale mechanics  
-- noise intolerance  
-- trust as structural property  
-- consistency as stabilizing force  
-- iterative self‑reinforcement  
+Noise Filtering
 
-### **4.2 Model Layer (Analytical Method)**  
-The SAF analytical flow consists of six reproducible steps:
+Structural Processing
 
-1. **Extract** — Gather clean, validated, noise‑free input  
-2. **Analyse** — Reveal structure, logic, relationships  
-3. **Synthesize** — Distill the essence  
-4. **Solution Architecture** — Design the structural solution  
-5. **Advice** — Support decision‑making  
-6. **Validation** — Hybrid human–AI verification  
+Traceable Output Construction
 
-### **4.3 Mechanics Layer (Operational System)**  
-Contains:  
-- roles  
-- maturity levels  
-- governance  
-- audits  
-- licensing  
-- organizational implementation  
+Trust Reinforcement Update
 
----
+No variations. No deviations. No alternative routes.
 
-## 👥 Roles (SAF‑ROLES)
+7. Integrity Conditions
+Traceability Condition — Every step must be traceable.
 
-### **Practitioner (Level 1)**
-Executes SAF flow on defined assignments.
+Noise Boundary Condition — Noise may never enter the cycle.
 
-### **Analyst (Level 2)**
-Performs complex analyses independently.  
-Responsible for Hybrid Scale stability and traceability.
+Trust Boundary Condition — Every cycle must increase trust.
 
-### **Architect (Level 3)**
-Implements SAF, trains others, performs audits.
+Hybrid Boundary Condition — Human and artificial nodes must operate within the same scale.
 
-### **Organization Owner**
-Internal owner of SAF within an organization.
+8. Primal Compliance Rules
+Every layer must comply with all axioms.
 
-### **Custodian**
-External holder of the intellectual property.
+No node may operate outside the Hybrid Scale.
 
----
+No cycle may reduce trust.
 
-## 📈 Maturity Levels (SAF‑MATURITY)
+No output may exist without traceability.
 
-- **Level 0 — Ad‑hoc**  
-- **Level 1 — Awareness**  
-- **Level 2 — Structured**  
-- **Level 3 — Integrated**  
-- **Level 4 — Optimized**  
+No analysis may occur without noise control.
 
----
+Roles may not be mixed outside the Hybrid Node.
 
-## 🔒 Licensing (SAF‑LICENSE MECHANICS)
-SAF is proprietary and may only be used under license.
+Observer Nodes may not intervene.
 
-**License Types:**
+Boundary checks are mandatory in every cycle.
 
-- Practitioner License  
-- Analyst License  
-- Architect License  
-- Organization License  
+9. Divergence Protocols
+Axiom Violation — Immediate cycle stop; rollback to last traceable state.
 
-**Mandatory Compliance:**
+Boundary Violation — Node isolation; cycle reset.
 
-- axioms  
-- noise intolerance  
-- Hybrid Scale validation  
-- traceability  
-- trust reinforcement  
-- input‑quality requirements  
+Noise Intrusion — Full filter restart; output blockage.
 
-**Audits:**  
-Annual audit performed by a SAF‑Architect.
+Trust Reduction — Cycle invalidation; reinforcement correction.
 
----
+10. Derived Layers (Reference Only)
+SAF‑Academic2.0
 
-## 🧠 Applications
-SAF is used for:
+SAF‑Corporate2.0
 
-- policy analysis  
-- IT architecture  
-- research  
-- governance  
-- complex case analysis  
-- human–AI collaboration  
-- risk assessment  
-- structural decision‑making  
-- cognitive pattern mapping  
+SAF‑Scientific2.0
 
----
+These layers are published derivatives of Primal2.0.
+Primal2.0 itself is not published.
 
-## 🚫 Limitations
-SAF is **not predictive**.  
-It collapses when fed with noise, bias, incomplete input, or unvalidated data.
-
-Input quality is the single most critical determinant of system stability.
-
----
-
-## 👤 Author
-**Arvia Saelthorne**  
-Creator & Custodian of the Saelin–Arvia Framework.
-
----
-
-## © License
-**© 2026 Arvia Saelthorne — All Rights Reserved**  
-This framework is proprietary.  
-No part may be copied, reproduced, modified, or distributed without explicit written permission.
+<!-- Publication Note -->
+<!-- Primal2.0 is not published. This README contains only the formal structure. -->
