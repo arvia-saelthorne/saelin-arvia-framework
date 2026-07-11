@@ -1,15 +1,13 @@
-SAF‑Corporate2.0 — README.md (Commit‑Ready)
-0. Corporate Interpretation Layer
-SAF‑Corporate2.0 is the formal business‑domain interpretation of SAF‑Primal2.0.
-It contains no narrative, no examples, no operational guidance, and no domain‑specific scenarios.
-It provides structural, organizational, and decision‑level abstractions derived directly from Primal.
+SAF‑Corporate2.0 — README
+SAF‑Corporate2.0 is the business‑domain interpretation of SAF‑Primal2.0.
+No narrative, no examples, no operational guidance, no domain‑specific scenarios.
 
 1. Corporate Axioms
 1.1 Hybrid Scale
 All corporate structures must support hybrid human–AI decision environments.
 
 1.2 Trust Reinforcement
-Every corporate process must increase organizational trust, not merely preserve it.
+Every corporate process must increase organizational trust.
 
 1.3 Noise Intolerance
 Corporate decision structures must eliminate ambiguity, inconsistency, and non‑traceable inputs.
@@ -18,24 +16,15 @@ Corporate decision structures must eliminate ambiguity, inconsistency, and non�
 Every decision, structure, and output must be fully traceable to its originating inputs.
 
 2. Corporate Structural Blueprint
-The Corporate layer consists of four structural domains:
+Executive Domain — strategic decision architecture derived from Primal Meta.
 
-Executive Domain  
-Strategic decision architecture derived from Primal Meta.
+Operational Domain — process‑level structures derived from Primal Model.
 
-Operational Domain  
-Process‑level structures derived from Primal Model.
+Mechanics Domain — organizational mechanics derived from Primal Mechanics.
 
-Mechanics Domain  
-Organizational mechanics derived from Primal Mechanics.
-
-Interaction Domain  
-Human–AI interaction structures derived from Primal Interaction.
+Interaction Domain — human–AI interaction structures derived from Primal Interaction.
 
 3. Corporate Dependency Matrix
-All Corporate structures must remain traceable to Primal2.0.
-The matrix defines the dependency relations between Corporate domains and Primal axioms.
-
 Corporate Domain	Hybrid Scale	Trust Reinforcement	Noise Intolerance	Traceability
 Executive	✓	✓	✓	✓
 Operational	✓	✓	✓	✓
@@ -59,22 +48,15 @@ Human–AI combined roles must reinforce trust and maintain full traceability.
 Non‑participating evaluators monitor structural integrity and compliance.
 
 5. Corporate Cycle Architecture
-The Corporate cycle is derived directly from the Primal cycle:
+Input Acquisition
 
-Input Acquisition  
-Structured collection of corporate inputs.
+Noise Filtering
 
-Noise Filtering  
-Removal of ambiguity, inconsistency, and non‑traceable data.
+Structural Processing
 
-Structural Processing  
-Organizational processing according to Corporate Blueprint.
+Traceable Output Construction
 
-Traceable Output Construction  
-Outputs must be fully traceable to filtered inputs.
-
-Trust Reinforcement  
-Every cycle must increase organizational trust.
+Trust Reinforcement
 
 No variations. No deviations.
 
@@ -112,26 +94,23 @@ Corporate may not publish Primal2.0.
 9. Corporate Divergence Protocols
 9.1 Axiom Violation
 Immediate structural halt.
-No further processing allowed.
 
 9.2 Noise Intrusion
 Restart at Noise Filtering.
-All affected outputs invalidated.
 
 9.3 Trust Reduction
 Output invalidation and structural review.
 
 9.4 Boundary Violation
-Isolation of violating structure and mandatory correction.
+Isolation and correction.
 
 10. Corporate Publication Layer
 10.1 Publication Scope
-SAF‑Corporate2.0 may be published as the formal business‑domain interpretation of SAF‑Primal2.0.
-It must contain no narrative, no examples, no case studies, and no domain‑specific scenarios.
+Corporate may be published as the business‑domain interpretation of Primal.
+No narrative, no examples, no case studies, no domain‑specific scenarios.
 
 10.2 Traceability Requirement
-All Corporate publications must explicitly reference SAF‑Primal2.0 as the underlying architecture.
-Corporate may never be presented as a standalone system.
+All Corporate publications must reference SAF‑Primal2.0.
 
 10.3 Structural Integrity
 Published Corporate documents must comply with:
@@ -146,11 +125,9 @@ the Corporate Integrity Conditions
 
 the Corporate Compliance Rules
 
-No deviations.
-
 10.4 Boundary Conditions
-Corporate publications may not include operational instructions, implementation guidance, or domain‑specific procedures.
+Corporate publications may not include operational instructions or implementation guidance.
 
 10.5 Non‑Disclosure of Primal
-SAF‑Primal2.0 itself is never published.
+Primal is never published.
 Corporate publishes only the business‑domain interpretation.
