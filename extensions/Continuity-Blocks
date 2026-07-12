@@ -1,118 +1,22 @@
-# SAF‑Continuity‑Blocks2.0 — Continuity Layer
+SAF‑Continuity‑Blocks2.0 — Continuity Layer  
 Formal continuity constructs of SAF‑Primal2.0 — no narrative, no examples
-
 ---
+Continuity‑Blocks defines the continuity layer inside SAF.  
+Its purpose is to maintain stability, direction, and coherence when systems move through hybrid contexts.
 
-## 1. Continuity Foundation
+The Continuity‑Blocks consist of:
+- Stability constructs  
+- Directional constructs  
+- Temporal constructs  
+- Divergence constructs  
+- Protocol constructs  
 
-SAF‑Continuity‑Blocks2.0 defines the formal continuity structures that preserve stability, direction, and long‑range coherence within SAF‑Primal2.0.  
-It contains formal constructs, divergence controls, and continuity protocols.  
-No narrative context or domain‑specific examples are included.
+The layer safeguards:
+- Traceability  
+- Noise‑free processing  
+- Reliability  
+- Domain boundaries  
+- Correction of deviations  
 
----
-
-## 2. Continuity Formulation of the Four Axioms
-
-### 2.1 Axiom 1 — Hybrid Scale
-All continuity constructs operate within the shared hybrid domain.
-
-### 2.2 Axiom 2 — Trust Reinforcement
-Continuity constructs must reinforce reliability across temporal and structural transitions.
-
-### 2.3 Axiom 3 — Noise Intolerance
-Continuity constructs must eliminate noise before producing valid continuity states.
-
-### 2.4 Axiom 4 — Traceability
-All continuity transformations must be fully traceable.
-
----
-
-## 3. Continuity Structural Blueprint
-
-### 3.1 Stability Constructs
-Formal structures ensuring system stability.
-
-### 3.2 Directional Constructs
-Formal structures ensuring directional coherence.
-
-### 3.3 Temporal Constructs
-Formal structures ensuring temporal continuity.
-
-### 3.4 Divergence Constructs
-Formal structures preventing continuity collapse.
-
-### 3.5 Protocol Constructs
-Formal continuity protocols, including M‑Day and Funnel‑Thinking.
-
----
-
-## 4. Continuity Dependency Matrix
-
-| Continuity Component | Hybrid Scale | Trust Reinforcement | Noise Intolerance | Traceability |
-|----------------------|--------------|----------------------|-------------------|--------------|
-| Stability Constructs | ✓            | ✓                    | ✓                 | ✓            |
-| Directional Constructs | ✓          | ✓                    | —                 | ✓            |
-| Temporal Constructs  | ✓            | ✓                    | ✓                 | ✓            |
-| Divergence Constructs| ✓            | ✓                    | ✓                 | ✓            |
-| Protocol Constructs  | ✓            | ✓                    | —                 | ✓            |
-
----
-
-## 5. Continuity Roleset
-
-### 5.1 Continuity Agent
-Formal agent operating within the continuity domain.
-
-### 5.2 Hybrid Continuity Construct
-Combined construct operating across continuity structures.
-
-### 5.3 Observer Construct
-Non‑interventional monitor within the continuity layer.
-
----
-
-## 6. Continuity Cycle Architecture
-
-- Continuity Input Acquisition  
-- Noise Filtering  
-- Structural Continuity Processing  
-- Traceable Continuity Construction  
-- Reliability Reinforcement  
-
----
-
-## 7. Continuity Integrity Conditions
-
-- Traceability Condition  
-- Noise Boundary Condition  
-- Trust Boundary Condition  
-- Hybrid Domain Condition  
-
----
-
-## 8. Continuity Compliance Rules
-
-- All continuity constructs must comply with all SAF axioms.  
-- No continuity agent may operate outside the Hybrid Scale.  
-- Each continuity cycle must reinforce reliability.  
-- Noise control is mandatory.  
-- Observer Constructs may not intervene.  
-- Boundary checks are mandatory.
-
----
-
-## 9. Continuity Divergence Protocols
-
-- **Axiom Violation** → immediate stop; rollback.  
-- **Boundary Violation** → isolation; reset.  
-- **Noise Breach** → filter restart; output block.  
-- **Trust Decline** → cycle invalidation; correction.
-
----
-
-## 10. Continuity Publication Layer
-
-Continuity constructs may only be published as derivatives of SAF‑Primal2.0.  
-No narrative context.  
-No domain‑specific examples.  
-All publications must traceably reference Primal2.0.
+Continuity‑Blocks act as structural assurance:  
+they prevent SAF processes from drifting apart and ensure that every transition remains consistent with the core axioms of SAF‑Primal.
