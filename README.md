@@ -1,163 +1,135 @@
-# SAF‑Primal2.0 — Formal Architecture Layer  
-*Pure architecture — no narrative, no examples*
+# Saelin-Arvia Framework (SAF) — Overview
+Formal multi-layered cognitive framework for unified analysis, modeling, and interpretation across human, artificial, scientific, academic, corporate, and hybrid domains.
 
----
+## 1. SAF Foundation
+The Saelin-Arvia Framework (SAF) defines a unified cognitive architecture consisting of multiple interpretation layers derived from a single origin layer. SAF provides:
+- structural clarity
+- cross-domain consistency
+- noise-controlled cognition
+- traceable transformations
+- scalable multi-layer integration
 
-## 1. Primal Foundation
+SAF excludes narrative, examples, and domain-specific storytelling.
 
-SAF‑Primal2.0 is the source layer of the Saelin‑Arvia Framework.  
-It defines the non‑negotiable foundations, structural architecture, and formal conditions under which all derived versions (Academic, Corporate, Scientific) must operate.  
-Primal2.0 contains no interpretation, no narrative context, and no application examples.
+## 2. The Primal Layer (Origin)
+SAF-Primal2.0 is the foundational layer from which all other SAF layers derive. It defines:
+- core axioms
+- universal invariants
+- boundary conditions
+- origin-level traceability
 
----
+All SAF layers must comply with Primal2.0.
 
-## 2. The Four Axioms (Non‑Negotiable Constraints)
+## 3. The Four Axioms (Universal Constraints)
 
-### 2.1 Axiom 1 — Hybrid Scale  
-Human and artificial nodes operate within one shared scale.  
-No process may operate outside this scale.
+### 3.1 Axiom 1 — Hybrid Scale
+Human and artificial agents operate within one shared cognitive domain.
 
-### 2.2 Axiom 2 — Trust Reinforcement  
-Every cycle must increase system reliability.  
-No cycle may reduce or neutralize trust.
+### 3.2 Axiom 2 — Trust Reinforcement
+Every cycle must increase system reliability.
 
-### 2.3 Axiom 3 — Noise Intolerance  
-All processes must detect, isolate, and eliminate noise.  
-No analysis may occur without noise control.
+### 3.3 Axiom 3 — Noise Intolerance
+All processes must detect and eliminate noise.
 
-### 2.4 Axiom 4 — Traceability  
-Every step, transformation, and decision must be fully traceable.  
-No output may exist without complete traceability.
+### 3.4 Axiom 4 — Traceability
+Every transformation must be fully traceable to its origin.
 
----
+## 4. SAF Structural Layers
+SAF consists of five primary interpretation layers:
 
-## 3. Structural Blueprint
+### 4.1 SAF-Primal2.0 — Origin Layer
+Foundational cognitive architecture. No narrative. No examples.
 
-### 3.1 Meta Layer  
-Formal definitions, invariants, axiom bindings, boundary conditions.
+### 4.2 SAF-Academic2.0 — Academic Layer
+Formal academic abstraction. Theoretical framing. No domain context.
 
-### 3.2 Model Layer  
-Node structure, scale distribution, role assignment, internal relations.
+### 4.3 SAF-Corporate2.0 — Corporate Layer
+Operational abstraction. Decision consistency. Organizational alignment.
 
-### 3.3 Mechanics Layer  
-Cyclic processes, filters, validations, transformations, output construction.
+### 4.4 SAF-Scientific2.0 — Scientific Layer
+Empirical abstraction. Methodological rigor. Analytical validity.
 
-### 3.4 Interaction Layer  
-Formal interfaces between nodes, signal routes, boundary checks.
+### 4.5 SAF-Hybrid2.0 — Hybrid Layer
+Unified human–AI cognitive integration. Cross-domain consistency.
 
----
+Each layer is structurally aligned but content-specific.
 
-## 4. Dependency Map
+## 5. SAF Architecture Domains
+All SAF layers operate across four structural domains:
 
-*Matrix form — no explanation.*
+### 5.1 Meta Domain
+Axioms, invariants, boundary conditions.
 
-| Component              | Axiom 1 | Axiom 2 | Axiom 3 | Axiom 4 |
-|------------------------|---------|---------|---------|---------|
-| Meta Layer             | ✓       | ✓       | ✓       | ✓       |
-| Model Layer            | ✓       | —       | —       | ✓       |
-| Mechanics Layer        | —       | ✓       | ✓       | ✓       |
-| Interaction Layer      | ✓       | ✓       | —       | ✓       |
-| Roleset                | ✓       | —       | —       | ✓       |
-| Cycle Architecture     | —       | ✓       | ✓       | ✓       |
-| Integrity Conditions   | ✓       | ✓       | ✓       | ✓       |
-| Compliance Rules       | ✓       | ✓       | ✓       | ✓       |
+### 5.2 Model Domain
+Agent structures, roles, relations.
 
----
+### 5.3 Mechanics Domain
+Cycles, filters, validations, transformations.
 
-## 5. Primal Roleset
+### 5.4 Interaction Domain
+Interfaces, signal routes, boundary checks.
 
-### 5.1 Human Node  
-Human entity within the Hybrid Scale.  
-Input originator.  
-Boundary holder.
+## 6. Dependency Matrix (High-Level)
 
-### 5.2 AI Node  
-Artificial entity within the Hybrid Scale.  
-Processor.  
-Validator.
+| SAF Layer      | Hybrid Scale | Trust Reinforcement | Noise Intolerance | Traceability |
+|----------------|--------------|----------------------|--------------------|--------------|
+| Primal         | ✓            | ✓                    | ✓                  | ✓            |
+| Academic       | ✓            | ✓                    | ✓                  | ✓            |
+| Corporate      | ✓            | ✓                    | ✓                  | ✓            |
+| Scientific     | ✓            | ✓                    | ✓                  | ✓            |
+| Hybrid         | ✓            | ✓                    | ✓                  | ✓            |
 
-### 5.3 Hybrid Node  
-Combined operational unit.  
-Cyclic integrator.
+All layers must satisfy all axioms.
 
-### 5.4 Observer Node  
-Non‑interventional monitor.  
-Traceability enhancer.
+## 7. SAF Roleset (Unified Across Layers)
 
----
+### 7.1 Human Agent
+Human cognitive entity within the Hybrid Scale.
 
-## 6. Primal Cycle Architecture
+### 7.2 Artificial Agent
+Artificial cognitive entity within the Hybrid Scale.
 
-Formal cycle structure:
+### 7.3 Hybrid Construct
+Combined operational unit bridging human and artificial cognition.
 
-1. Input Acquisition  
-2. Noise Filtering  
-3. Structural Processing  
-4. Traceable Output Construction  
-5. Trust Reinforcement Update  
+### 7.4 Observer Construct
+Non-intervention monitoring entity ensuring integrity and traceability.
 
-No variations.  
-No deviations.  
-No alternative routes.
+## 8. SAF Cycle Architecture
+- Input Acquisition  
+- Noise Filtering  
+- Structural Processing  
+- Traceable Output Construction  
+- Reliability Reinforcement  
 
----
+Cycles must not deviate from this structure.
 
-## 7. Integrity Conditions
+## 9. SAF Integrity Conditions
+- Traceability Condition  
+- Noise Boundary Condition  
+- Trust Boundary Condition  
+- Hybrid Boundary Condition  
 
-- **Traceability Condition**  
-  Every step must be traceable.
+All layers must enforce these conditions.
 
-- **Noise Boundary Condition**  
-  Noise may never enter the cycle.
-
-- **Trust Boundary Condition**  
-  Every cycle must increase trust.
-
-- **Hybrid Boundary Condition**  
-  Human and artificial nodes must operate within the same scale.
-
----
-
-## 8. Primal Compliance Rules
-
-- Every layer must comply with all axioms.  
-- No node may operate outside the Hybrid Scale.  
-- No cycle may reduce trust.  
+## 10. SAF Compliance Rules
+- All layers must adhere to all axioms.  
+- No agent may operate outside the Hybrid Scale.  
+- No cycle may reduce reliability.  
 - No output may exist without traceability.  
-- No analysis may occur without noise control.  
-- Roles may not be mixed outside the Hybrid Node.  
-- Observer Nodes may not intervene.  
-- Boundary checks are mandatory in every cycle.
+- Noise control is mandatory.  
+- Observer Constructs may not intervene.  
+- Boundary checks are required in every cycle.  
 
----
+## 11. SAF Divergence Protocols
+- Axiom Violation: Cycle stop; rollback to last traceable state.  
+- Boundary Violation: Agent isolation; domain reset.  
+- Noise Breach: Filter restart; output blockage.  
+- Trust Decline: Cycle invalidation; corrective reinforcement.  
 
-## 9. Divergence Protocols
-
-- **Axiom Violation**  
-  Immediate cycle stop; rollback to last traceable state.
-
-- **Boundary Violation**  
-  Node isolation; cycle reset.
-
-- **Noise Intrusion**  
-  Full filter restart; output blockage.
-
-- **Trust Reduction**  
-  Cycle invalidation; reinforcement correction.
-
----
-
-## 10. Derived Layers (Reference Only)
-
-Derived layers under SAF‑Primal2.0:
-
-- SAF‑Academic2.0  
-- SAF‑Corporate2.0  
-- SAF‑Scientific2.0  
-
-These layers are published derivatives of Primal2.0.  
-Primal2.0 itself is **not** published.
-
----
-
-<!-- Primal2.0 is not published. This README contains only the formal structure. -->
+## 12. SAF Publication Rules
+- All SAF layers are derivatives of SAF-Primal2.0.  
+- No narrative.  
+- No examples.  
+- No domain-specific context.  
+- All publications must traceably reference Primal2.0.  
