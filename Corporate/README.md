@@ -1,92 +1,101 @@
-SAF‑Corporate2.0 — Corporate Interpretation Layer
+SAF‑Corporate2.0 — Corporate Interpretation Layer  
 Formal corporate abstraction of SAF‑Primal2.0 — no narrative, no examples
 
 1. Corporate Foundation
 SAF‑Corporate2.0 is the corporate interpretation layer of SAF‑Primal2.0.
-It provides formal organizational conceptualization, structural frameworks, and business‑domain abstractions.
+It provides formal governance structures, organizational modeling, operational mechanics, and corporate‑grade abstractions.
 It contains no examples, no narrative context, and no domain‑specific applications.
 
 2. Corporate Formulation of the Four Axioms
 2.1 Axiom 1 — Hybrid Scale
-Human and artificial organizational systems operate within one shared structural domain.
+Human and artificial decision‑making systems operate within one shared corporate domain.
 
 2.2 Axiom 2 — Trust Reinforcement
-Each iteration increases the organizational reliability of the system.
+Each iteration increases the operational reliability of corporate processes.
 
 2.3 Axiom 3 — Noise Intolerance
-All organizational processes require noise detection and noise elimination as a prerequisite for validity.
+All corporate processes require noise detection and noise elimination as a prerequisite for validity.
 
 2.4 Axiom 4 — Traceability
-Every organizational transformation must be traceable to its formal origin.
+Every corporate transformation must be traceable to its formal origin.
 
 3. Corporate Structural Blueprint
-3.1 Executive Domain
-Formal strategic structures, invariants, organizational boundaries.
+3.1 Governance Domain
+Formal rules, compliance structures, decision boundaries.
 
-3.2 Operational Domain
-Abstract representations of human and artificial organizational entities.
+3.2 Organizational Modeling Domain
+Abstract representations of roles, departments, and hybrid decision‑making entities.
 
-3.3 Mechanics Domain
-Formal processes, cyclic structures, validation mechanisms.
+3.3 Operational Mechanics Domain
+Process cycles, validation mechanisms, escalation paths.
 
-3.4 Interaction Domain
-Formal interfaces between organizational systems.
+3.4 Interactional Semantics Domain
+Formal interfaces between corporate agents and systems.
 
 4. Corporate Dependency Matrix
 Corporate Component	Hybrid Scale	Trust Reinforcement	Noise Intolerance	Traceability
-Executive Domain	✓	✓	✓	✓
-Operational Domain	✓	✓	✓	✓
-Mechanics Domain	✓	✓	✓	✓
-Interaction Domain	✓	✓	✓	✓
+Governance Domain	✓	✓	✓	✓
+Organizational Modeling Domain	✓	—	—	✓
+Operational Mechanics Domain	—	✓	✓	✓
+Interactional Semantics Domain	✓	✓	—	✓
 
 
 5. Corporate Roleset
-5.1 Human Organizational Agent
-Human entity within the shared organizational domain.
+5.1 Human Corporate Agent
+Human entity within the shared corporate domain.
 
-5.2 Artificial Organizational Agent
+5.2 Artificial Corporate Agent
 Artificial entity within the same domain.
 
-5.3 Hybrid Organizational Construct
+5.3 Hybrid Corporate Construct
 Combined operational unit within the corporate scale.
 
 5.4 Observer Construct
-Non‑interventional monitor within the organizational framework.
+Non‑interventional monitor within the corporate framework.
 
 6. Corporate Cycle Architecture
-Organizational Input Acquisition
+Corporate Input Acquisition
+
 Noise Filtering
-Structural Organizational Processing
+
+Structural Corporate Processing
+
 Traceable Output Construction
-Organizational Trust Reinforcement
+
+Operational Trust Reinforcement
 
 7. Corporate Integrity Conditions
-Organizational Traceability Condition
+Traceability Condition
+
 Noise Boundary Condition
+
 Trust Boundary Condition
+
 Hybrid Domain Condition
 
 8. Corporate Compliance Rules
-All organizational domains must comply with all axioms.
-No organizational agent may operate outside the Hybrid Scale.
-Each corporate cycle must increase organizational reliability.
-Traceability is mandatory for every organizational transformation.
-Noise control is mandatory for every decision analysis.
+All corporate domains must comply with all axioms.
+
+No corporate agent may operate outside the Hybrid Scale.
+
+Each corporate cycle must increase operational reliability.
+
+Traceability is mandatory for every corporate transformation.
+
+Noise control is mandatory within every analysis.
+
 Observer Constructs may not intervene.
+
 Boundary checks are mandatory within every corporate domain.
 
 9. Corporate Divergence Protocols
-Axiom Violation
-Immediate organizational cycle stop; rollback to last traceable state.
+Axiom Violation → immediate cycle stop; rollback to last traceable state.
 
-Boundary Violation
-Agent isolation; domain reset.
+Boundary Violation → agent isolation; domain reset.
 
-Noise Breach
-Full filter restart; output blockage.
+Noise Breach → full filter restart; output blockage.
 
-Trust Decline
-Cycle invalidation; organizational correction.
+Trust Decline → cycle invalidation; operational correction.
 
 10. Corporate Publication Layer
 SAF‑Corporate2.0 may only be published as a derivative of Primal2.0.
