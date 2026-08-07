@@ -1,4 +1,8 @@
-# Saelin-Arvia Framework (SAF) — Overview
+SAF is the official software implementation of the patented MATE meta-architecture.
+All functionality in this repository falls under the PCT application "MATE – Meta Architectural Trust Enhancer".
+SAF is not a separate invention but an execution layer within MATE.
+
+Saelin-Arvia Framework (SAF) – Implementation of the MATE Meta-Architecture
 Formal multi-layered cognitive framework for unified analysis, modeling, and interpretation across human, artificial, scientific, academic, corporate, and hybrid domains.
 
 ## 1. SAF Foundation
@@ -8,6 +12,18 @@ The Saelin-Arvia Framework (SAF) defines a unified cognitive architecture consis
 - noise-controlled cognition
 - traceable transformations
 - scalable multi-layer integration
+
+  ## MATE – SAF Mapping
+
+| MATE Principle              | SAF Implementation                               |
+|-----------------------------|---------------------------------------------------|
+| Volumetric meta-layer       | SAF reasoning space                               |
+| Boundary enforcement        | SAF boundary fields + drift detection             |
+| Full traceability           | SAF traceability matrix + logging                 |
+| Noise intolerance           | SAF filtering mechanisms                          |
+| Trust reinforcement         | SAF cyclic validation                             |
+| Non-mutative correction     | SAF overlay engine                                |
+| Runtime separation          | SAF separation from model parameters              |
 
 SAF excludes narrative, examples, and domain-specific storytelling.
 
