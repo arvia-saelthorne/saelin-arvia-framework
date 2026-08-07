@@ -99,3 +99,5 @@ Non-intervention monitoring entity within the theoretical framework.
 - No examples.
 - No domain‑specific context.
 - All publications must explicitly reference Primal2.0.
+
+- This layer implements the MATE meta-architecture within its respective domain.
