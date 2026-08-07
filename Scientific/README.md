@@ -101,3 +101,5 @@ Non‑intervention monitoring entity ensuring scientific integrity.
 - No narrative.
 - No domain‑specific examples.
 - All scientific publications must traceably reference Primal2.0.
+
+- This layer implements the MATE meta-architecture within its respective domain.
